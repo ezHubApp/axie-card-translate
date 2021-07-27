@@ -1,0 +1,530 @@
+{
+    "aquatic-back-02": {
+        "th": "ศัตรูไม่สามารถโจมตี ติดคริติคอล Axie ตัวนี้ได้",
+        "en": "Disable critical strikes on this Axie during this round."
+    },
+    "aquatic-back-04": {
+        "th": "จั่วการ์ด 1 ใบ เมื่อโจมตี Axie  ที่ติด Last Stand",
+        "en": "Draw a card if target is in Last Stand."
+    },
+    "aquatic-back-06": {
+        "th": "เพิ่มความเร็ว 20%  เป็นเวลา 2 ตา เมื่อโดนโจมตี ",
+        "en": "Apply Speed+ to this Axie for 2 rounds when attacked."
+    },
+    "aquatic-back-08": {
+        "th": "เพิ่มพลังโจมตี 20% ถ้าเกราะ Axie แตก",
+        "en": "Apply Attack+ to this Axie if its shield breaks."
+    },
+    "aquatic-back-10": {
+        "th": "โจมตีและฮีลเพิ่ม HP +50 ตามจำนวนชิ้นส่วน Axie ที่เป็น Anemone",
+        "en": "Successful attacks restore 50 HP for each Anemone part this Axie posseses."
+    },
+    "aquatic-back-12": {
+        "th": "โจมตี Axie ที่ไม่ใช้การ์ด ต้องใช้คู่กับการ์ดอีก 2 ใบ (ใช้เป็นการ์ดแรก)",
+        "en": "Prioritize idle target when comboed with at least 2 additional cards."
+    },
+    "aquatic-horn-02": {
+        "th": "เพิ่มพลังโจมตีของการ์ดนี้ +130% เมื่อโจมตี Axie  ที่ไม่ได้ใช้การ์ด",
+        "en": "Deal 130% damage when attacking an idle target."
+    },
+    "aquatic-horn-04": {
+        "th": "เมื่อโจมตี ศัตรู เพิ่มเกราะของการ์ดนี้ +30%",
+        "en": "Add 30% to this Axie's shield when attacking."
+    },
+    "aquatic-horn-06": {
+        "th": "เพิ่มพลังโจมตี +20% เมื่อโจมตี Beast, Bug, Mech",
+        "en": "Apply Attack+ to this Axie when attacking Beast, Bug, or Mech targets."
+    },
+    "aquatic-horn-08": {
+        "th": "โจมตีและฮีลเพิ่ม HP +50 ตามจำนวน Axie Anemone",
+        "en": "Successful attacks restore 50 HP for each Anemone part this Axie posseses."
+    },
+    "aquatic-horn-10": {
+        "th": "เมื่อโจมตีศัตรู ที่ติด Last Stand น้องศัตรูจะตายทันที",
+        "en": "End target's Last Stand."
+    },
+    "aquatic-horn-12": {
+        "th": "ศัตรูเข้า Last Stand ไม่ได้ ถ้าโดนโจมตีด้วยการ์ดนี้ จน HP เหลือ 0",
+        "en": "Target cannot enter Last Stand if this card brings its HP to zero."
+    },
+    "aquatic-mouth-02": {
+        "th": "เพิ่มพลังโจมตี ของการ์ดนี้ +120% เมื่อน้อง HP ต่ำกว่า 50%",
+        "en": "Deal 120% damage if this Axie's HP is below 50%."
+    },
+    "aquatic-mouth-04": {
+        "th": "ฮีล +HP ตามพลังโจมตี ของการ์ดนี้ ที่ทำได้",
+        "en": "Heal this Axie by the damage inflicted with this card."
+    },
+    "aquatic-mouth-08": {
+        "th": "เพิ่มพลังโจมตี +20% เมื่อโจมตี Plant, Reptile  หรือ Dusk",
+        "en": "Apply Attack+ to this Axie when attacking Plant, Reptile, or Dusk targets."
+    },
+    "aquatic-mouth-10": {
+        "th": "โจมตี Axie ที่ HP น้อยที่สุด เมื่อ HP ของน้องต่ำกว่า 50% ",
+        "en": "Target injured enemy if this Axie's HP is below 50%."
+    },
+    "aquatic-tail-02": {
+        "th": "เพิ่มความเร็ว +20%  ให้น้อง Axie 2 ตา เมื่อใช้คู่กับการ์ดเผ่า Aqua",
+        "en": "Apply Speed+ to this Axie for 2 rounds when comboed with another Aquatic class card."
+    },
+    "aquatic-tail-04": {
+        "th": "เพิ่ม Energy +1 เมื่อใช้คู่กับการ์ดอีก 1  ใบ",
+        "en": "Gain 1 energy when comboed with another card."
+    },
+    "aquatic-tail-06": {
+        "th": "Axie ที่โดนโจมตี จะติดสถานะ Jinx ( ตีไม่ติดคริติคอล 2 ตา )",
+        "en": "Apply Jinx to target for 2 rounds."
+    },
+    "aquatic-tail-08": {
+        "th": "โจมตีศัตรู ให้ติดสถานะ Chill ( เข้า Last Stand ไม่ได้ 2 ตา )",
+        "en": "Apply Chill to target for 2 rounds."
+    },
+    "aquatic-tail-10": {
+        "th": "เพิ่มพลังโจมตี ของการ์ดนี้ 120%  ถ้าน้องโจมตีเป็นตัวแรก",
+        "en": "Deal 120% damage if this Axie attacks first."
+    },
+    "aquatic-tail-12": {
+        "th": "โจมตี Axie ที่อยู่ไกลที่สุด เมื่อใช้เป็นการ์ดแรก",
+        "en": "Prioritizes furthest target"
+    },
+    "beast-back-02": {
+        "th": "โจมตีติดคริติคอล 100% เมื่อใช้คู่กับการ์ดอีก 2 ใบ",
+        "en": "Guaranteed critical strike when comboed with at least 2 other cards."
+    },
+    "beast-back-04": {
+        "th": "จั่วการ์ด 1 ใบ เมื่อโจมตี Aqua, Bird, Dawn",
+        "en": "Draw a card when attacking an Aquatic, Bird, or Dawn target."
+    },
+    "beast-back-06": {
+        "th": "น้องจะโจมตีคนแรก ถ้าน้องติดสถานะ Last Stand",
+        "en": "Always strike first if this Axie is in Last Stand."
+    },
+    "beast-back-08": {
+        "th": "เพิ่มพลังโจมตี +150% ถ้าน้อง Axie อยู่ใน สถานะ Last Stand",
+        "en": "Deal 150% damage if this Axie is in Last Stand."
+    },
+    "beast-back-10": {
+        "th": "เพิ่มเกราะตามพลังโจมตี ที่ทำได้เมื่อโจมตี Axie เผ่า Plant",
+        "en": "Add Shield equal to the damage this cards deals to Plant targets."
+    },
+    "beast-back-12": {
+        "th": " โจมตี 3 ที",
+        "en": "Strike 3 times."
+    },
+    "beast-horn-02": {
+        "th": "เพิ่มโอกาสติดคริ +20% เมื่อ น้องๆในทีมตัวอื่นใช้การ์ด Beast  หรือน้องใช้คู่กับการ์ด Plant  ",
+        "en": "Increase crit chance by 20% if chained or comboed with a plant card."
+    },
+    "beast-horn-04": {
+        "th": "เพิ่ม Energy +1 ทุกครั้งที Axie ทีมเรา ตีติดคริติคอล",
+        "en": "Gain 1 energy per critical strike dealt by your team this round."
+    },
+    "beast-horn-06": {
+        "th": "เพิ่มเกราะของการ์ดนี้ +20% เมื่อ Axie อีกตัวในทีม ใช้การ์ดเผ่า Beast",
+        "en": "Add 20% shield to this Axie when played in a chain."
+    },
+    "beast-horn-08": {
+        "th": "โจมตีแรงขึ้น 10% ตามจำนวน Axie เผ่า Bug ที่อยู่ในทีมเรา",
+        "en": "Deal 10% additional damage for each allied Bug Axie."
+    },
+    "beast-horn-10": {
+        "th": "เพิ่มพลังโจมตี 250% เมื่อตี ติดคริติคอล",
+        "en": "Deal 250% damage on critical strikes."
+    },
+    "beast-horn-12": {
+        "th": "เพิ่ม Speed +20% 2 ตา เมื่อถูกโจมตี",
+        "en": "Apply speed+ to this Axie for 2 rounds when attacking."
+    },
+    "beast-mouth-02": {
+        "th": "เพิ่มพลังโจมตี 120% เมื่อใช้คู่กับการ์ด  \" Nut Cracker \"",
+        "en": "Deal 120% damage when comboed with another 'Nut Cracker' card."
+    },
+    "beast-mouth-04": {
+        "th": "ทำลาย Energy  ของศัตรู -1 หน่วย",
+        "en": "Destroy 1 of your opponent's energy."
+    },
+    "beast-mouth-08": {
+        "th": "ถ้า HP ของน้อง Axie ต่ำกว่่า 30% ศัตรูที่โดนโจมตี จะติด Lethal ( โดนคริติคอลเมื่อถูกโจมตี )",
+        "en": "Apply Lethal to target if this Axie's HP is below 30%."
+    },
+    "beast-mouth-10": {
+        "th": "เพิ่ม Morale +40% เป็นเวลา 2 ตา",
+        "en": "Apply 2 Morale+ to this Axie for 2 rounds."
+    },
+    "beast-tail-02": {
+        "th": "เพิ่ม Energy +1",
+        "en": "Gain 1 energy."
+    },
+    "beast-tail-04": {
+        "th": "ขโมย Energy 1 หน่วย เมื่อใช้คู่กับการ์ดอีก 1 ใบ",
+        "en": "Steal 1 energy from your opponent when comboed with another card."
+    },
+    "beast-tail-06": {
+        "th": "เพิ่ม Morale +20% ให้กับทีม 2 ตา เมื่อ Axie นี้ติด Last Stand",
+        "en": "Apply Morale+ to your team for 2 rounds if this Axie attacks while in Last Stand."
+    },
+    "beast-tail-08": {
+        "th": "จั่วการ์ด 1 ใบ เมื่อโจมตีเป็นตัวแรกของตา",
+        "en": "Draw a card if this Axie attacks at the beginning of the round."
+    },
+    "beast-tail-10": {
+        "th": "เพิ่มพลังโจมตี 20% เมื่อใช้คู่กับการ์ด  \" Nut Cracker \"",
+        "en": "Deal 120% damage when comboed with another 'Nut Cracker' card."
+    },
+    "beast-tail-12": {
+        "th": "กระโดดข้าม Axie  ตัวแรกของศัตรู ไปโจมตีตัวถัดไปแทน",
+        "en": "Skip the closest target if there are 2 or more enemies remaining."
+    },
+    "bird-back-02": {
+        "th": "ทำให้ศัตรูติดสถานะ Fear 1 เทิร์น  ถ้าตัวที่ใช้โดนโจมตี จะติดสถานะ Fear จนจบตา",
+        "en": "Apply Fear to target for 1 turn. If defending, apply Fear to self until next round."
+    },
+    "bird-back-04": {
+        "th": "ลด Morale ของ Axie ที่โดนโจมตี -20% เป็นเวลา 2 ตา",
+        "en": "Apply Morale- to enemy for 2 rounds."
+    },
+    "bird-back-06": {
+        "th": "Axie ที่โดนโจมตี จะติดสถานะ Jinx (ไม่ติดคริติคอล 2 ตา)",
+        "en": "Apply Jinx to target for 2 rounds."
+    },
+    "bird-back-08": {
+        "th": "ย้าย Debuff  ทั้งหมดจากน้อง ไปที่ ศัตรู",
+        "en": "Transfer all debuffs on this Axie to target."
+    },
+    "bird-back-10": {
+        "th": "ถ้า HP ของน้องต่ำกว่า 50% น้องจะโจมตีเผ่า Aqua เมื่อใช้เป็นการ์ดแรก",
+        "en": "Target an Aquatic class enemy if this Axie's HP is below 50%"
+    },
+    "bird-back-12": {
+        "th": "โจมตี 2 ที เมื่อน้องติด Debuff",
+        "en": "Attack twice if this Axie has any debuffs."
+    },
+    "bird-horn-02": {
+        "th": "ใช้ Debuff ให้ตัวเองติด สถานะ Aroma ( ทำให้ศัตรูทุกตัวโจมตีน้อง )",
+        "en": "Apply Aroma on this Axie until next round."
+    },
+    "bird-horn-04": {
+        "th": "เพิ่มพลังโจมตี 20% สามารถซ้อนทับได้",
+        "en": "Apply Attack+ to this Axie."
+    },
+    "bird-horn-06": {
+        "th": "เพิ่มพลังโจมตีการ์ดนี้ 20% เมื่อ Axie อีกตัวในทีม ใช้การ์ดประเภท \"Trump\"",
+        "en": "Deal 120% damage when chained with another \"Trump\" card."
+    },
+    "bird-horn-08": {
+        "th": "Axie ที่โดนโจมตี จะไม่สามารถใช้การ์ด ที่ใช้เขาโจมตีได้ ในตาต่อไป ",
+        "en": "Disable target's horn cards next round."
+    },
+    "bird-horn-10": {
+        "th": "ข้าม Axie ตัวที่ใกล้ที่สุด และโจมตีตัวถัดไปแทน",
+        "en": "Skip the closest target if there are 2 or more enemies remaining."
+    },
+    "bird-horn-12": {
+        "th": "เพิ่มพลังโจมตี 120% เมื่อ Axie อีกตัวในทีม ใช้การ์ดประเภท \"Lunge\"",
+        "en": "Deal 120% damage when chained with another \"Lunge\" card."
+    },
+    "bird-mouth-02": {
+        "th": "ทำให้ศัตรูติดสถานะ Sleep",
+        "en": "Apply Sleep to target."
+    },
+    "bird-mouth-04": {
+        "th": "ลดพลังโจมตี  Axie ศัตรู -20%  ",
+        "en": "Apply Attack- on target."
+    },
+    "bird-mouth-08": {
+        "th": "ถ้า HP ของน้องต่ำกว่า 50% น้อง Axie จะโจมตี Bug เมื่อใช้เป็นการ์ดแรก",
+        "en": "Target Bug class enemy if this Axie's HP is below 50%."
+    },
+    "bird-mouth-10": {
+        "th": "โจมตี Axie ที่ความเร็วเยอะที่สุด เมื่อใช้เป็นการ์ดแรก",
+        "en": "Target fastest enemy."
+    },
+    "bird-tail-02": {
+        "th": "เพิ่มพลังโจมตี  +120% เมื่อได้ โจมตีเป็นตัวแรกของตา",
+        "en": "Deal 120% damage if this Axie attacks first."
+    },
+    "bird-tail-04": {
+        "th": "เมื่อโดน Debuff จะเพิ่มเกราะ Debuff ละ +20 (ติดผิษ 5 ที ได้เกราะเพิ่ม +100)",
+        "en": "Add 20% shield to this Axie for each debuff it possesses."
+    },
+    "bird-tail-06": {
+        "th": "เมื่อใช้จะลดพลังโจมตี ของน้อง Axie 40% ",
+        "en": "Apply 2 Attack- to this Axie."
+    },
+    "bird-tail-08": {
+        "th": "กระโดดข้าม Axie  ที่ติดสถานะ Last Stand ไปโจมตี ตัวถัดไปแทน",
+        "en": "Skip targets that are in Last Stand."
+    },
+    "bird-tail-10": {
+        "th": "Axie ที่โดนโจมตี  จะติดสถานะ Chill ( ไม่สามารถเข้า  Last Stand ได้ 2 ตา )",
+        "en": "Apply Chill to target for 2 rounds."
+    },
+    "bird-tail-12": {
+        "th": "ลด HP 30% เมื่อโจมตีสำเร็จ",
+        "en": "Inflict 30% of this Axie's max HP to itself."
+    },
+    "bug-back-02": {
+        "th": "Stun ศัตรู เมื่อเกราะแตก มีผล 1 ครั้งต่อ 1 ตา",
+        "en": "Stun attacker if this Axie’s shield breaks. Can only trigger once per round."
+    },
+    "bug-back-04": {
+        "th": "โจมตีด้วยยาพิษ เมื่อ Axie ในทีม ใช้การ์ด Bug ",
+        "en": "Apply 2 poison to target when played in a chain."
+    },
+    "bug-back-06": {
+        "th": "ปล่อยคลื่นเสียง ลดพลังโจมตีศัตรู -20%",
+        "en": "Apply Attack- to target."
+    },
+    "bug-back-08": {
+        "th": "โจมตีแรงขึ้น 50% เมื่อโจมตี เผ่า Bug",
+        "en": "Deal 50% more damage when attacking Bug targets."
+    },
+    "bug-back-10": {
+        "th": "สาปศัตรู ทำให้ไม่สามารถถูกฮีลได้ จนกว่าจะถึงตาต่อไป",
+        "en": "Target cannot be healed until next round."
+    },
+    "bug-back-12": {
+        "th": "ทำให้ศัตรูติดสถานะ Fragile จนถึงตาต่อไป ( เกราะโดนตีแรงขึ้น +200% ) ",
+        "en": "Apply Fragile to target until next round."
+    },
+    "bug-horn-02": {
+        "th": "ลด Speed ศัตรู -20% เป็นเวลา 2 ตา",
+        "en": "Apply Speed- to target for 2 rounds."
+    },
+    "bug-horn-04": {
+        "th": "คลื่นเสี่ยงขโมย Energy 1 หน่วย เมื่อ Axie ในทีมเรา ใช้การ์ดแบบเดียวกัน",
+        "en": "Steal energy from your opponent when chained with another \"Bug Signal\" card."
+    },
+    "bug-horn-06": {
+        "th": "ศัตรูที่มีเกราะจะติด สถานะ Fear ( ทำให้ศัตรูตี Miss )",
+        "en": "Apply Fear to shielded targets."
+    },
+    "bug-horn-08": {
+        "th": "ตีแรงขึ้น +30% เมื่อโจมตีศัตรูที่มีเกราะ",
+        "en": "Deal 30% more damage to shielded targets."
+    },
+    "bug-horn-10": {
+        "th": "แย่งการ์ดบนมือศัตรู แล้วโยนทิ้ง 1 ใบ แบบสุ่ม",
+        "en": "Randomly discard 1 card from your enemy's hand."
+    },
+    "bug-horn-12": {
+        "th": "เพิ่ม Energy +1 เมื่อใช้คู่กับการ์ด Plant",
+        "en": "Gain 1 energy when comboed with a plant card."
+    },
+    "bug-mouth-02": {
+        "th": "ดูดเลือดศัตรู เพิ่ม +HP ของ Axie ตามพลังโจมตีที่ทำได้",
+        "en": "Heal this Axie by the damage inflicted with this card."
+    },
+    "bug-mouth-04": {
+        "th": "แย่งการ์ดบนมือศัตรู โยนทิ้ง 1 ใบ แบบสุ่ม",
+        "en": "Randomly discard 1 card from your enemy's hand."
+    },
+    "bug-mouth-08": {
+        "th": "ทำให้ศัตรู ติดสถานะ Fear 2 เทิร์น เมื่อ Axie อีกตัว ในทีมใช้ การ์ด Bug",
+        "en": "Apply Fear to target for 2 turns when played in a Chain."
+    },
+    "bug-mouth-10": {
+        "th": "โจมตีแรงขึ้น +100% เมื่อใช้คู่กับการ์ดอีกใบ",
+        "en": "Add 100% more damage when comboed with another card."
+    },
+    "bug-tail-02": {
+        "th": "ตดใส่ศัตรู ทำให้ติด สถานะ Stench ( Axie ที่โดน จะไม่ถูกโจมตี )",
+        "en": "Apply Stench to enemy for 1 round."
+    },
+    "bug-tail-04": {
+        "th": "โจมตี 2 ที เมื่อใช้คู่กับการ์ดอีกใบ",
+        "en": "Attack twice when comboed with another card."
+    },
+    "bug-tail-06": {
+        "th": "ทำให้ Axie เผ่า Aqua, Bird ติด Stun เมื่อ Axie โดนโจมตี มีผล 1 ครั้งต่อตา",
+        "en": "Apply stun when struck by Aquatic or Bird class cards. Can only trigger once per round."
+    },
+    "bug-tail-08": {
+        "th": "ทำให้ศัตรู ใช้การ์ด โจมตีละยะใกล้ไม่ได้ ในตาต่อไป",
+        "en": "Disable target's melee cards next round."
+    },
+    "bug-tail-10": {
+        "th": "พลังโจมตี +200% เมื่อติดอยู่ใน Last Stand และ Axie นี้จะตายทันที เมื่อโจมตี",
+        "en": "Deal 200% damage when attacking in Last stand. Axie's Last Stand ends after it attacks."
+    },
+    "bug-tail-12": {
+        "th": "พลังโจมตี +130% เมื่อโจมตี Axie  ที่ติดสถานะ Debuff",
+        "en": "Deal 130% damage to debuffed targets."
+    },
+    "plant-back-02": {
+        "th": "โจมตี Axie เผ่า Bird เมื่อใช้เป็นการ์ดแรก ต้องใช้คู่กับการ์ด 2 ใบ ขึ้นไป",
+        "en": "Target a bird if comboed with 2 or more cards."
+    },
+    "plant-back-04": {
+        "th": "เพิ่ม HP +250",
+        "en": "Heal this Axie for 120 HP."
+    },
+    "plant-back-06": {
+        "th": "ล้าง Debuff ทั้งหมด ของ Axie ตัวนี้",
+        "en": "Remove all debuffs from this Axie."
+    },
+    "plant-back-08": {
+        "th": "ทุกครั้งที่โดนโจมตี ด้วยการ์ดเผ่า Aqua เพิ่ม Energy +1",
+        "en": "Gain 1 energy if this Axie is struck by an Aquatic card."
+    },
+    "plant-back-10": {
+        "th": "ล้าง Debuff ทั้งหมด ของ Axie ตัวที่อยู่ ข้างหน้าในแถวเดียวกัน",
+        "en": "Remove all debuffs from a teammate if its directly in front (same row) of this Axie."
+    },
+    "plant-back-12": {
+        "th": "ถ้าเกราะไม่แตก จั่วการ์ดเมื่อจบเทิร์น",
+        "en": "Draw a card if this Axie's shield doesn't break this round."
+    },
+    "plant-horn-02": {
+        "th": "เพิ่มพลังโจมตี 20% ของการ์ด ถ้าน้อง Axie ในทีม ใช้การ์ดเผ่า Plant",
+        "en": "Increased 20% damage when chained with another plant card."
+    },
+    "plant-horn-04": {
+        "th": "เพิ่มพลังโจมตี 120% ของการ์ด ถ้าน้อง Axie ในทีม ใช้การ์ดเผ่า Plant",
+        "en": "Deal 120% damage if this Axie's shield breaks."
+    },
+    "plant-horn-06": {
+        "th": "ฮีล HP +120 ",
+        "en": "Heal this Axie for 120 HP."
+    },
+    "plant-horn-08": {
+        "th": "ฮีลน้องข้างหน้า HP +270 ถ้าไม่มีน้องข้างหน้า ฮีลตัวเองแทน",
+        "en": "Heal front teammate for 270 HP. If there are no front teammates, heal this Axie instead."
+    },
+    "plant-horn-10": {
+        "th": "เพิ่มพลังโจมตี 20% ของการ์ดนี้ ถ้าน้องได้โจมตีเป็นตัวสุดท้าย",
+        "en": "Deal 120% damage if this Axie attacks last."
+    },
+    "plant-horn-12": {
+        "th": "โจมตี Axie ฝั่งตรงข้าม ที่มีความเร็ว เยอะที่สุด",
+        "en": "Target the fastest enemy."
+    },
+    "plant-mouth-02": {
+        "th": "ขโมย Energy อีกฝ่าย 1 หน่วย เมื่อใช้คู่กับ อีก 1  ใบ",
+        "en": "Steal 1 energy from your opponent when comboed with another card."
+    },
+    "plant-mouth-04": {
+        "th": "ฮีลตัวเอง ตามพลังโจมตี ที่ทำได้ของการ์ดนี้",
+        "en": "Heal this Axie by the damage this card inflicts."
+    },
+    "plant-mouth-08": {
+        "th": "ฮีลตามพลังโจมตี ทำทำได้ของการ์ดนี้ เมื่อโจมตี Axie ที่เป็น Plant",
+        "en": "Heal this Axie by the damage this card inflicts on a Plant target."
+    },
+    "plant-mouth-10": {
+        "th": "ฮีลตัวน้องข้างหน้า ในแถวเดียวกัน HP +190 ",
+        "en": "Heal front teammate for 190 HP."
+    },
+    "plant-tail-02": {
+        "th": " ถ้าเกราะแตก เพิ่ม Energy +1",
+        "en": "Gain 1 energy if this Axie's shield breaks. Can only trigger once per round."
+    },
+    "plant-tail-04": {
+        "th": "จั่วการ์ดเมื่อโดนโจมตีด้วย การ์ดเผ่า Beast, Bug, Mech",
+        "en": "Draw a card if struck by a Beast, Bug, or Mech card."
+    },
+    "plant-tail-06": {
+        "th": "เมื่อโดนโจมตี  อีกฝ่ายจะไม่สามารถใช้การ์ด  โจมตีระยะไกลได้ในตาถัดไป",
+        "en": "When hit, disable the attacker's ranged cards next round."
+    },
+    "plant-tail-08": {
+        "th": "เมื่อโจมตีหรือป้องกัน จะทำให้อีกฝ่ายติดผิษ  \"โดนดาเมจ เทิร์นละ -2 HP\" สามารถซ้อนทับได้",
+        "en": "Apply poison each time this card is used to attack or defend."
+    },
+    "plant-tail-10": {
+        "th": "ศัตรูที่ใช้การ์ด Aqua โจมตีเป็นใบแรก จะไม่โจมตี Axie ตัวนี้ แต่จะโจมตีตัวหลังแทน",
+        "en": "Cannot be targeted by Aquatic cards if this Axie has teammates remaining."
+    },
+    "plant-tail-12": {
+        "th": "ศัตรูไม่สามารถใช้ การ์ดปากโจมตีเราได้  ในตาถัดไป",
+        "en": "Disable target's mouth cards next round."
+    },
+    "reptile-back-02": {
+        "th": "จั่วการ์ด 1 ใบ เมื่อเกราะแตก",
+        "en": "Draw a card if this Axie's shield breaks."
+    },
+    "reptile-back-04": {
+        "th": "โจมตี Axie ที่เกราะน้อยที่สุด เมื่อใช้คู่กับการ์ด 2 ใบ และใช้เป็นใบแรก",
+        "en": "Target enemy with lowest shield when comboed with 2 or more cards."
+    },
+    "reptile-back-06": {
+        "th": "เพิ่มเกราะของการ์ดใบนี้ 2 เท่า เมื่อใช้คู่กับการ์ด Plant",
+        "en": "Double shield from this card when comboed with a plant card."
+    },
+    "reptile-back-08": {
+        "th": "สะท้อนพลังโจมตี ระยะใกล้ 40%",
+        "en": "Reflect 40% of melee damage back at attacker."
+    },
+    "reptile-back-10": {
+        "th": "เพิ่มเกราะให้ทีม Axie ที่ยืนอยู่ข้างๆ หรือเยื้องกัน เพิ่ม +15% ของเกราะ Axie ตัวนี้",
+        "en": "Add 15% of this Axie's shield to adjacent teammates."
+    },
+    "reptile-back-12": {
+        "th": "ลด Speed ศัตรู -20% เป็นเวลา 2 ตา",
+        "en": "Appy Speed- to target for 2 rounds."
+    },
+    "reptile-horn-02": {
+        "th": "โจมตีศัตรูให้ติด สถานะ Stench",
+        "en": "Apply Stench to target until end of round."
+    },
+    "reptile-horn-04": {
+        "th": "พลังโจมตี +120% เมื่อ Axie ในทีม  ใช้การ์ด \"Lunge\"",
+        "en": "Deal 120% damage when chained with another \"lunge\" card."
+    },
+    "reptile-horn-06": {
+        "th": "พลังโจมตี +130% เมื่อโจมตีศัตรูที่มี  Speed เยอะกว่า",
+        "en": "Deal 130% damage if target is faster than this Axie."
+    },
+    "reptile-horn-08": {
+        "th": "สะท้อนดาเมจระยะไกล 50%",
+        "en": "Reflect 50% of ranged damage back at attacker."
+    },
+    "reptile-horn-10": {
+        "th": "ลด Speed ศัตรู -20%",
+        "en": "Apply speed- to target for 2 rounds."
+    },
+    "reptile-horn-12": {
+        "th": "ฟื้นฟูเกราะ +20 ทุกเทิร์น ในตานั้น",
+        "en": "Recover 20 shield per turn."
+    },
+    "reptile-mouth-02": {
+        "th": "โจมตี Axie  ที่อยู่ไกลที่สุด",
+        "en": "Target the furthest enemy."
+    },
+    "reptile-mouth-04": {
+        "th": "เพิ่ม Energy +1 เมื่อโจมตีศัตรูที่มี  Speed สูงกว่า",
+        "en": "Gain 1 energy if target is faster than this Axie."
+    },
+    "reptile-mouth-08": {
+        "th": "ฮีล +HP ตามพลังโจมตีที่ทำได้ เมื่อโจมตี Aqua",
+        "en": "Heal this Axie by damage inflicted with this card to Aquatic targets."
+    },
+    "reptile-mouth-10": {
+        "th": "ทำให้ศัตรูติด Stun เมื่อใช้คู่กับการ์ด 2 ใบ",
+        "en": "Apply Stun to enemy when comboed with at least 2 additional cards."
+    },
+    "reptile-tail-02": {
+        "th": "ลดดาเมจที่ได้รับ 15% ในตานี้",
+        "en": "Reduce damage taken by 15% this round."
+    },
+    "reptile-tail-04": {
+        "th": "เพิ่ม Energy +1 เมื่อโจมตีศัตรูที่มี Buff",
+        "en": "Generate 1 energy when attacking a buffed target."
+    },
+    "reptile-tail-06": {
+        "th": "หลังจากตาที่ 4 โจมตีแรงขึ้น +50%",
+        "en": "Deal 150% damage after round 4."
+    },
+    "reptile-tail-08": {
+        "th": "การโจมตีที่ทำให้ Axie ตัวนี้ เกราะแตก จะทำให้ไม่โดนดาเมจ",
+        "en": "Attacks that break this Axie’s shield cannot do additional damage. Can only trigger once per round."
+    },
+    "reptile-tail-10": {
+        "th": "ลดพลังโจมตี ศัตรู -20% เมื่อศัตรูติดพิษ",
+        "en": "Apply Attack- to poisoned targets."
+    },
+    "reptile-tail-12": {
+        "th": "ปล่อยพิษใส่ ศัตรู",
+        "en": "Apply 2 Poison to target."
+    }
+}
