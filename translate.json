@@ -328,7 +328,7 @@
         "en": "Add 100% more damage when comboed with another card."
     },
     "bug-tail-02": {
-        "th": "ตดใส่ศัตรู ทำให้ติด สถานะ Stench ( Axie ที่โดน จะไม่ถูกโจมตี )",
+        "th": "ตดใส่ศัตรู ทำให้ติด สถานะ Stench ( Axie ที่โดน จะไม่ถูกโจมตีเพราะน้องเหม็น )",
         "en": "Apply Stench to enemy for 1 round."
     },
     "bug-tail-04": {
