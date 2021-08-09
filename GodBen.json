@@ -9,7 +9,7 @@
     },
 
 "buffs-morale-up": {
-        "th": "เพิ่ม Morale +20%",
+        "th": "เพิ่มโอกาสติดคริติคอล +20%",
         "en": "Increases Morale by 20% for the next round."
     },
 "buffs-speed-up": {
@@ -33,11 +33,11 @@
         "en": "Affected Axie can't enter last stand."
     },
 "debuffs-fear": {
-        "th": "น้อง Axie กลัวจนไม่สามารถโจมตีได้",
+        "th": "น้อง Axie ติดสถานะกลัวจนไม่สามารถโจมตีได้",
         "en": "Affected Axie can't attack"
     },
 "debuffs-fragile": {
-        "th": "เกราะน้องจะโดนโจมตีด้วยดาเมจ 2 เท่า",
+        "th": "เกราะน้องจะโดนโจมตีแรงขึ้น 2 เท่า",
         "en": "Shield takes double the damage for the next incoming attack."
     },
 "debuffs-jinx": {
@@ -49,7 +49,7 @@
         "en": "Next hit against affected Axie is critical."
     },
 "debuffs-morale-down": {
-        "th": "ลด Morale -20%",
+        "th": "ลดโอกาสติดคริติคอล +20% Morale -20%",
         "en": "Decreases Morale by 20% for the next round."
     },    
 "debuffs-poison": {
@@ -57,7 +57,7 @@
         "en": "Until removal, affected Axie loses 2 HP for every action."
     },
 "debuffs-sleep": {
-        "th": "เจาะเกราะ",
+        "th": "โจมตีเจาะเกราะ",
         "en": "Next incoming attack ignores shields."
     },
 "debuffs-speed-down": {
@@ -69,13 +69,217 @@
         "en": " Affected Axie loses target priority for the next round."
     },
 "debuffs-stun": {
-        "th": "โจมตีศัตรูพลาด เมื่อศัตรูโจมตีน้องจะโดนเจาะเกราะ",
+        "th": "ศัตรูตีพลาดและเมื่ิอศัตรูถูกโจมตีจะถูกโจมตีเจาะเกราะ",
         "en": "Next attack misses / Next incoming attack ignores shields."
     },
-
-
-
-
-
-
+"critical-block": {
+        "th": "ศัตรูไม่สามารถโจมตีติดคริติคอลได้",
+        "en": "Critical Block"
+    },
+"draw-card": {
+        "th": "จั่วการ์ด",
+        "en": "Draw Card"
+    },
+"speed-up": {
+        "th": "บัฟ",
+        "en": "Speed Up+"
+    },
+"attack-up": {
+        "th": "เพิ่มพลังโจมตี",
+        "en": "Attack Up+"
+    },
+"self-heal": {
+        "th": "ฮีลตัวเอง",
+        "en": "Self Heal"
+    },
+"prioritize": {
+        "th": "โจมตีเป้าหมายอื่น",
+        "en": "Pioritize"
+    },
 }
+"raise-damage": {
+        "th": "เพิ่มพลังโจมตี",
+        "en": "Raise Damage+"
+},
+"raise-shield": {
+        "th": "บัฟ",
+        "en": "Buffs"
+},
+"end-last-stand": {
+        "th": "ศัตรูไม่สามารถเข้าสู้ Last Stand ได้",
+        "en": "End Last Stand"
+},
+"gain-energy": {
+        "th": "เพิ่มเอนเนอจี้",
+        "en": "Gain Energy+"
+},
+"๋jinx": {
+        "th": "น้อง Axie ไม่สามารถโจมตีติดคริติคอลได้",
+        "en": "Jinx"
+},
+"chill": {
+        "th": "น้อง Axie ไม่สามารถเข้าสถานะ Last Stand ได้",
+        "en": "Chill"
+},
+"critical": {
+        "th": "โจมตีคริติคอล",
+        "en": "Critical"
+},
+"strike-first": {
+        "th": "โจมตีตัวแรก",
+        "en": "Strike First"
+},
+"multi-hit": {
+        "th": "โจมตีหลายครั้ง",
+        "en": "Multi Hit"
+},
+"energy-destroy": {
+        "th": "ทำลายเอนเนอจี้",
+        "en": "Energy Destroy"
+},
+"lethal": {
+        "th": "เมื่อติดสถานะ จะโดนโจมตีติดคริติคอล",
+        "en": "Lethal"
+},
+"morale-up": {
+        "th": "เพิ่มโอกาสติดคริติคอล +20%",
+        "en": "Morale Up+"
+},
+"fear": {
+        "th": "น้อง Axie ติดสถานะกลัวจนไม่สามารถโจมตีได้",
+        "en": "Fear"
+},
+"morale-down": {
+        "th": "ลดโอกาสติดคริติคอล +20%",
+        "en": "Morale Down-"
+},
+"remove-debuff": {
+        "th": "ลบล้างดีบัฟ",
+        "en": "Remove Debuff"
+    
+},
+"double-hit": {
+        "th": "โจมตี 2 ครั้ง",
+        "en": "Double Hit"
+},
+"aroma": {
+        "th": "ตกเป็นเป้าหมายของศัตรูในตาต่อไป",
+        "en": "Aroma"
+},
+"disable-ability": {
+        "th": "ศัตรูไม่สามารถใช้ได้บางการ์ด",
+        "en": "Disable Ability"
+},
+"sleep": {
+        "th": "โจมตีเจาะเกราะ",
+        "en": "Sleep"
+},
+"attack-down": {
+        "th": "ลดพลังโจมตี",
+        "en": "Attack Down-"
+},
+"fixed-damage": {
+        "th": "โจมตีแบบมีเงื่อนไข",
+        "en": "Fixed-Damage"
+},
+"stun": {
+        "th": "ศัตรูตีพลาดและเมื่ิอศัตรูถูกโจมตีจะถูกโจมตีเจาะเกราะ",
+        "en": "Stun"
+},
+"heal-block": {
+        "th": "บล็อคการ์ดฮีล",
+        "en": "Heal Block"
+},
+"fragile": {
+        "th": "เกราะน้องจะโดนโจมตีแรงขึ้น 2 เท่า",
+        "en": "Fragile"
+},
+"speed-down": {
+        "th": "ลดความเร็ว",
+        "en": "Speed Down-"
+},
+"discard": {
+        "th": "ทำลายการ์ด",
+        "en": "Discard"
+},
+"stench": {
+        "th": "ไม่โดนตีเพราะเหม็นตด",
+        "en": "Stench"
+},
+"ally-heal": {
+        "th": "ฮีลเพื่อนร่วมทีม",
+        "en": "Ally Heal"
+},
+"untargetable": {
+        "th": "หลบหลีกการเป็นเป้าหมาย",
+        "en": "Untargetable"
+},
+"damage-reflect": {
+        "th": "สะท้อนพลังโจมตี",
+        "en": "Damage Reflect"
+},
+"any-class": {
+        "th": "ทุกเผ่า",
+        "en": "Any Class"
+},
+"any-part": {
+        "th": "ชิ้นส่วนทั้งหมด",
+        "en": "Any Part"
+},
+"any-attack-type": {
+        "th": "ทุกประเภทการโจมตี",
+        "en": "Any Attack type"
+},
+"melee": {
+        "th": "โจมตีระยะใกล้",
+        "en": "Melee"
+},
+"ranged": {
+        "th": "โจมตีระยะไกล",
+        "en": "Ranged"
+},
+"back": {
+        "th": "หลัง",
+        "en": "Back"
+},
+"horn": {
+        "th": "เขา",
+        "en": "Horn"
+},
+"mouth": {
+        "th": "ปาก",
+        "en": "Mounth"
+},
+"tail": {
+        "th": "หาง",
+        "en": "Tail"
+},
+"any-energy": {
+        "th": "เอนเนอจี้ทุกแบบ",
+        "en": "Any Energy"
+},
+"aquatic": {
+        "th": "เผ่าปลา",
+        "en": "Aquatic"
+},
+"beast": {
+        "th": "เผ่าบีส",
+        "en": "Beast"
+},
+"bird": {
+        "th": "เผ่านก",
+        "en": "Bird"
+},
+"bug": {
+        "th": "เผ่าแมลง",
+        "en": "Bug"
+},
+"plant": {
+        "th": "เผ่าพืช",
+        "en": "plant"
+},
+"reptile": {
+        "th": "เผ่าเรปไทป์",
+        "en": "Reptile"
+
+},
