@@ -112,7 +112,7 @@
         "en": "Strike 3 times."
     },
     "beast-horn-02": {
-        "th": "เพิ่มโอกาสติดคริ +20% เมื่อน้องใช้คู่กับการ์ด Plant 2 ใบ หรือน้องๆในทีมตัวอื่นใช้การ์ด Plant 1 ใบ",
+        "th": "เพิ่มโอกาสติดคริ +20% เมื่อน้องใช้การ์ด Plant 2 ใบ หรือเพื่อนในทีมใช้การ์ด Plant",
         "en": "Increase crit chance by 20% if chained or comboed with a plant card."
     },
     "beast-horn-04": {
