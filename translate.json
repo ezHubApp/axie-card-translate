@@ -320,7 +320,7 @@
         "en": "Randomly discard 1 card from your enemy's hand."
     },
     "bug-mouth-08": {
-        "th": "ทำให้ศัตรู ติดสถานะ Fear 2 เทิร์น เมื่อ Axie อีกตัว ในทีมใช้ การ์ดแบบเดียวกัน",
+        "th": "ทำให้ศัตรู ติดสถานะ Fear 2 เทิร์น เมื่อ Axie อีกตัวในทีมใช้การ์ด Bug",
         "en": "Apply Fear to target for 2 turns when played in a Chain."
     },
     "bug-mouth-10": {
