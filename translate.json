@@ -60,7 +60,7 @@
         "en": "Apply Attack+ to this Axie when attacking Plant, Reptile, or Dusk targets."
     },
     "aquatic-mouth-10": {
-        "th": "โจมตี Axie ที่ HP น้อยที่สุด เมื่อ HP ของน้องต่ำกว่า 50% ",
+        "th": "โจมตี Axie ที่ HP เหลือน้อย เมื่อ HP ของน้องต่ำกว่า 50% ",
         "en": "Target injured enemy if this Axie's HP is below 50%."
     },
     "aquatic-tail-02": {
