@@ -132,8 +132,8 @@
         "en": "Deal 250% damage on critical strikes."
     },
     "beast-horn-12": {
-        "th": "เพิ่ม Speed +20% 2 ตา เมื่อโจมตี",
-        "en": "Apply speed+ to this Axie for 2 rounds when attacking."
+        "th": "เพิ่ม Speed +20% 2 ตา เมื่อใช้คู่กับการ์ด 1 ใบ",
+        "en": "Apply speed+ to this Axie for 2 rounds when comboed with another card"
     },
     "beast-mouth-02": {
         "th": "เพิ่มพลังโจมตี 120% เมื่อใช้คู่กับการ์ด  \" Nut Cracker \"",
