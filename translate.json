@@ -304,8 +304,8 @@
         "en": "Deal 30% more damage to shielded targets."
     },
     "bug-horn-10": {
-        "th": "แย่งการ์ดบนมือศัตรู แล้วโยนทิ้ง 1 ใบ แบบสุ่ม",
-        "en": "Randomly discard 1 card from your enemy's hand."
+        "th": "แย่งการ์ดบนมือศัตรู แล้วโยนทิ้ง 1 ใบ แบบสุ่ม ต้องใช้คู่กับการ์ด 1 ใบ",
+        "en": "Randomly discard 1 card from your enemy's hand when comboed with another card"
     },
     "bug-horn-12": {
         "th": "เพิ่ม Energy +1 เมื่อใช้คู่กับการ์ด Plant",
@@ -316,8 +316,8 @@
         "en": "Heal this Axie by the damage inflicted with this card."
     },
     "bug-mouth-04": {
-        "th": "แย่งการ์ดบนมือศัตรู โยนทิ้ง 1 ใบ แบบสุ่ม",
-        "en": "Randomly discard 1 card from your enemy's hand."
+        "th": "แย่งการ์ดบนมือศัตรู โยนทิ้ง 1 ใบ แบบสุ่ม เมื่อใช้คู่กับการ์ด 1 ใบ",
+        "en": "Randomly discard 1 card from your enemy's hand when comboed with another card"
     },
     "bug-mouth-08": {
         "th": "ทำให้ศัตรู ติดสถานะ Fear 2 เทิร์น เมื่อ Axie อีกตัวในทีมใช้การ์ด Bug",
@@ -340,8 +340,8 @@
         "en": "Apply stun when struck by Aquatic or Bird class cards. Can only trigger once per round."
     },
     "bug-tail-08": {
-        "th": "ทำให้ศัตรู ใช้การ์ด โจมตีละยะใกล้ไม่ได้ ในตาต่อไป",
-        "en": "Disable target's melee cards next round."
+        "th": "ทำให้ศัตรู ใช้การ์ด โจมตีละยะใกล้ไม่ได้ ในตาต่อไป เมื่อใช้คู่กับการ์ด 1 ใบ",
+        "en": "Disable target's melee cards next round when comboed with another card"
     },
     "bug-tail-10": {
         "th": "พลังโจมตี +200% เมื่อติดอยู่ใน Last Stand และ Axie นี้จะตายทันที เมื่อโจมตี",
