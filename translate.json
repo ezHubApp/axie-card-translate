@@ -412,8 +412,8 @@
         "en": "Heal this Axie by the damage this card inflicts on a Plant target."
     },
     "plant-mouth-10": {
-        "th": "ฮีลตัวน้องข้างหน้า ในแถวเดียวกัน HP +190 ",
-        "en": "Heal front teammate for 190 HP."
+        "th": "ฮีลน้องข้างหน้า ในแถวเดียวกัน ถ้าไม่มีฮีลตัวเอง HP +120 ",
+        "en": "Heal front teammate for 120 HP. If there are no teammates, heal this Axie instead"
     },
     "plant-tail-02": {
         "th": " ถ้าเกราะแตก เพิ่ม Energy +1",
